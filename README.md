@@ -1,9 +1,11 @@
-<<<<<<< HEAD
 # Mood-generator
-=======
+
 # 🎨 Mood Color Generator
 
 A fun and aesthetic web app that generates moods with matching gradients and quotes.
+
+LIVE DEMO LINK 
+https://timely-meerkat-45fc4e.netlify.app/
 
 ## ✨ Features
 
